@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlightTelemetry.Microservices.CurrentLocation": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --pause-on-error"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlightTelemetry.Microservices.ArrivalsBoard": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --pause-on-error"
+    }
+  }
+}

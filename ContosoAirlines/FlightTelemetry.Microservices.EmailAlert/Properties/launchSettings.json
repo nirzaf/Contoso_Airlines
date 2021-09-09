@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlightTelemetry.Microservices.EmailAlert": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --pause-on-error"
+    }
+  }
+}
